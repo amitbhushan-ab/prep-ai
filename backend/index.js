@@ -3,6 +3,7 @@ const cors = require('cors');
 const dotenv = require('dotenv');
 const http = require('http');
 const path = require('path');
+const fs = require('fs');
 const { Server } = require('socket.io');
 
 dotenv.config({ path: path.join(__dirname, '.env') });
@@ -22,11 +23,17 @@ const allowedOrigins = (process.env.CLIENT_ORIGIN || 'http://localhost:5173,http
   .map((origin) => origin.trim())
   .filter(Boolean);
 
+const isOriginAllowed = (origin) => {
+  if (!origin) return true;
+  if (allowedOrigins.includes('*')) return true;
+  return allowedOrigins.includes(origin);
+};
+
 const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: allowedOrigins,
+    origin: allowedOrigins.includes('*') ? '*' : allowedOrigins,
     methods: ['GET', 'POST'],
   },
 });
@@ -35,15 +42,17 @@ app.use(
   cors({
     origin: (origin, callback) => {
       // Same-origin and server-to-server requests have no Origin header.
-      if (!origin || allowedOrigins.includes(origin)) return callback(null, true);
+      if (isOriginAllowed(origin)) return callback(null, true);
       return callback(new Error('Origin not allowed by CORS'));
     },
+    credentials: true,
   })
 );
 app.use(express.json());
 
-app.get('/', (req, res) => {
-  res.send('PrepAI API with sockets is running.');
+// Platform healthcheck endpoint
+app.get('/api/health', (req, res) => {
+  res.status(200).json({ status: 'ok', uptime: process.uptime(), timestamp: new Date().toISOString() });
 });
 
 app.use('/api/questions', require('./routes/questionRoutes'));
@@ -51,6 +60,23 @@ app.use('/api/results', require('./routes/resultRoutes'));
 app.use('/api/bookmarks', require('./routes/bookmarkRoutes'));
 app.use('/api/auth', require('./routes/authRoutes'));
 app.use('/api/prepai', require('./routes/prepAIRoutes'));
+
+// Serve built frontend assets in production if available
+const frontendDistPath = path.resolve(__dirname, '../frontend/dist');
+if (fs.existsSync(frontendDistPath)) {
+  app.use(express.static(frontendDistPath));
+  // Single-page application route fallback
+  app.get('*', (req, res, next) => {
+    if (req.path.startsWith('/api') || req.path.startsWith('/socket.io')) {
+      return next();
+    }
+    res.sendFile(path.join(frontendDistPath, 'index.html'));
+  });
+} else {
+  app.get('/', (req, res) => {
+    res.send('PrepAI API with sockets is running.');
+  });
+}
 
 io.on('connection', (socket) => {
   console.log('User connected:', socket.id);

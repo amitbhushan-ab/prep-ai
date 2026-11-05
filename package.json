@@ -1,5 +1,25 @@
 {
-  "dependencies": {
-    "lucide-react": "^1.8.0"
+  "name": "prepai",
+  "version": "1.0.0",
+  "description": "PrepAI - AI-powered interview preparation & CBT examination platform",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && npm --prefix backend install && npm --prefix frontend install",
+    "build": "npm --prefix frontend install && npm --prefix frontend run build && npm --prefix backend install",
+    "start": "node backend/index.js",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "seed": "npm --prefix backend run seed"
+  },
+  "keywords": [
+    "interview-prep",
+    "cbt",
+    "ai-tutor",
+    "react",
+    "express",
+    "socketio"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
   }
 }

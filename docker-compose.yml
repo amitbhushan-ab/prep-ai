@@ -1,0 +1,13 @@
+services:
+  prepai:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT=5000
+      - NODE_ENV=production
+      - JWT_SECRET=prepai_production_jwt_secret_key_random_32_chars
+      - CLIENT_ORIGIN=*
+    restart: unless-stopped

@@ -2,15 +2,26 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 
-const dbPath = path.join(__dirname, 'db.json');
+const dbPath = process.env.DB_PATH || path.join(__dirname, 'db.json');
 
-// Initialize database file
+// Ensure database directory exists
+const dbDir = path.dirname(dbPath);
+if (!fs.existsSync(dbDir)) {
+  fs.mkdirSync(dbDir, { recursive: true });
+}
+
+// Initialize database file if not present
 if (!fs.existsSync(dbPath)) {
-  fs.writeFileSync(dbPath, JSON.stringify({
-    users: [],
-    questions: [],
-    results: []
-  }, null, 2));
+  const starterDbPath = path.join(__dirname, 'db.json');
+  if (starterDbPath !== dbPath && fs.existsSync(starterDbPath)) {
+    fs.copyFileSync(starterDbPath, dbPath);
+  } else {
+    fs.writeFileSync(dbPath, JSON.stringify({
+      users: [],
+      questions: [],
+      results: []
+    }, null, 2));
+  }
 }
 
 const readDB = () => JSON.parse(fs.readFileSync(dbPath, 'utf8'));

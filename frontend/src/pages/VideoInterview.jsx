@@ -58,7 +58,7 @@ const VideoInterview = () => {
 
   // Initialize Socket.io and WebRTC
   useEffect(() => {
-    const newSocket = io(API_BASE);
+    const newSocket = io(API_BASE || undefined);
     setSocket(newSocket);
 
     // Create RTCPeerConnection
