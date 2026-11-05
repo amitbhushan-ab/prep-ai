@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" fill="none" role="img" aria-label="PrepAI">
+  <defs>
+    <linearGradient id="faviconGrad" x1="2" y1="2" x2="34" y2="34" gradientUnits="userSpaceOnUse">
+      <stop stopColor="#4338CA" />
+      <stop offset="0.5" stopColor="#3B82F6" />
+      <stop offset="1" stopColor="#0EA5E9" />
+    </linearGradient>
+    <linearGradient id="faviconSpark" x1="18" y1="5" x2="28" y2="15" gradientUnits="userSpaceOnUse">
+      <stop stopColor="#FFE4E1" />
+      <stop offset="0.6" stopColor="#FCA5A5" />
+      <stop offset="1" stopColor="#F472B6" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background squircle -->
+  <rect x="2" y="2" width="32" height="32" rx="9.5" fill="url(#faviconGrad)" />
+  <rect x="2.5" y="2.5" width="31" height="31" rx="9" stroke="rgba(255,255,255,0.2)" strokeWidth="1" />
+
+  <!-- Monogram P -->
+  <rect x="9" y="9" width="3.5" height="18" rx="1.75" fill="#FFFFFF" />
+  <path d="M10.5 9.5H18C21.0376 9.5 23.5 11.9624 23.5 15C23.5 18.0376 21.0376 20.5 18 20.5H10.5" stroke="#FFFFFF" strokeWidth="3.2" strokeLinecap="round" strokeLinejoin="round" />
+
+  <!-- AI Intelligence Spark with Misty Rose glow -->
+  <path d="M24 5.5L25.1 8.5L28 9.6L25.1 10.7L24 13.8L22.9 10.7L20 9.6L22.9 8.5L24 5.5Z" fill="url(#faviconSpark)" />
+  <circle cx="28.5" cy="5" r="1.2" fill="#FFE4E1" />
+</svg>

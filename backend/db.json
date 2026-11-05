@@ -1,0 +1,2398 @@
+{
+  "users": [
+    {
+      "name": "Stud1",
+      "email": "S1@gmail.com",
+      "password": "$2b$10$FJP6.mAB/zkA.VqfayGudeuoeYuyFaOUhV15hKZW5jp6TMqPxEM.u",
+      "skills": [],
+      "_id": "31b83011dd63b8db3f4589b8",
+      "id": "72753694ab07088c70e93670",
+      "createdAt": "2026-04-13T17:56:17.014Z"
+    },
+    {
+      "name": "Stud1",
+      "email": "stud1@gmail.com",
+      "password": "$2b$10$YyIQrp3dxwsHT/SAemRlNOps4e9A66MeiF7TAA6EVWbs4zT8h8i5G",
+      "skills": [],
+      "_id": "1afd6055ce4286c85c8fce8e",
+      "id": "a87d14bfb670355930160c13",
+      "createdAt": "2026-04-14T09:01:00.578Z"
+    },
+    {
+      "name": "Test User",
+      "email": "test@test.com",
+      "password": "$2b$10$aiWUGggQkfcbGKO5VtpRP.A61mJbcRQBvDdYM69/Kj2nJsG17WBrS",
+      "skills": [],
+      "_id": "cd4a0d5c923dfcb95deb383f",
+      "id": "61317c68e889f0b066076ed0",
+      "createdAt": "2026-04-14T09:02:10.267Z"
+    },
+    {
+      "name": "karan",
+      "email": "k#@gmail.com",
+      "password": "$2b$10$9dVqC1z9H45NiLzLqsRloOQYIYEaKf/vOsaNUqLMkl9csQayJvCiG",
+      "skills": [],
+      "_id": "b73a18a1df227680afbf7295",
+      "id": "a24d5914e51c51007c5e6b34",
+      "createdAt": "2026-04-14T09:11:50.991Z"
+    },
+    {
+      "name": "Test2 User",
+      "email": "test2@test.com",
+      "password": "$2b$10$OcRhrT1osPM8M2JFAxEvJOybODQS1AOPSLv1dkIIThsu3cJeug2ry",
+      "skills": [],
+      "_id": "033c182de178040c5861793f",
+      "id": "a9781568f07094027e838e13",
+      "createdAt": "2026-04-15T06:18:42.000Z"
+    },
+    {
+      "name": "test1",
+      "email": "test1@test.com",
+      "password": "$2b$10$S74W.THUN0tAget7M6vZ3uwiRP0SOzwyrrm3ZV.l5YATqa0xen/xS",
+      "skills": [],
+      "_id": "013beffc56dfb667bf2f2d03",
+      "id": "2e9a95adcee26236459ca21f",
+      "createdAt": "2026-04-15T06:47:39.730Z"
+    },
+    {
+      "name": "Stud111",
+      "email": "S111@gmail.com",
+      "password": "$2b$10$fZhD/UXOrFEU5.Vz6GlpuuK0wN.gnkmluG.l/nGwsqPfBGFtj9dxi",
+      "skills": [],
+      "_id": "f7d1049c2d861c584fb609f9",
+      "id": "b0bfbdae7eb650fe8294229a",
+      "createdAt": "2026-04-15T07:09:36.929Z"
+    },
+    {
+      "name": "Stud123",
+      "email": "S123@gmail.com",
+      "password": "$2b$10$U0OZTk091FOzAe7Y9JDx2OPfEogSSKReqQ.3nIWhpZ.g0ZhjfDV2.",
+      "skills": [],
+      "_id": "0c691d6d7ead5e289e33b099",
+      "id": "ddeca4f5a256a27e21d96ef5",
+      "createdAt": "2026-04-15T07:10:47.047Z"
+    },
+    {
+      "name": "Test UserNew User",
+      "email": "verify@test.com",
+      "password": "$2b$10$5U054fBbwZHRuqgfQifQEOKyxxb.thmPMT1HA/vpN/XxdXFkbruoC",
+      "skills": [],
+      "_id": "16e1449634f3e8f2a9759cf2",
+      "id": "b634e7c5013df5bfbe2fedd9",
+      "createdAt": "2026-04-15T11:55:52.345Z"
+    },
+    {
+      "name": "Ankit",
+      "email": "A@gmail.com",
+      "password": "$2b$10$XyDgenRUSZE8mquDJH5gOu5lqZrjX.XgltrI8neJUcidNUmRgsWju",
+      "skills": [],
+      "_id": "8944da8bc84ba7d4ef356d13",
+      "id": "73bf4bdcaf3781ee8029fde3",
+      "createdAt": "2026-04-16T04:10:16.504Z"
+    },
+    {
+      "name": "Tester",
+      "email": "verify2@test.com",
+      "password": "$2b$10$2dllEY94cRL98FF1w/5ri.WL6CMfLLbtZz/NuLGRN8s3rkczxaEgm",
+      "skills": [],
+      "_id": "6ecc3ac143ac7ceedcea4ede",
+      "id": "021bc7e1edb49b5800dc38e5",
+      "createdAt": "2026-04-16T04:43:07.609Z"
+    },
+    {
+      "name": "Vedaa Joshi",
+      "email": "vedaa@gmail.com",
+      "password": "$2b$10$xQBdyCDCMgfCf.vj/sQYIu8L6Zz2bmDnFMsJgWr.f6LQ.HGLf3k3S",
+      "skills": [],
+      "_id": "72f47ada314700ea09543eca",
+      "id": "13eb02b48b1ce86ee48066ca",
+      "createdAt": "2026-10-13T13:18:44.722Z"
+    },
+    {
+      "name": "Ankit Pal",
+      "email": "ankitpal20941@gmail.com",
+      "password": "$2b$10$dnxwDtzXU39s5Ra6I11lCOi2saKBArjjXAOdpID7d.dksPXeLGRWG",
+      "skills": [],
+      "_id": "b21307491a40aa53031be5e4",
+      "id": "c9dd12407a74daacc68d363a",
+      "createdAt": "2026-11-02T15:56:02.824Z"
+    },
+    {
+      "name": "Ankit Pal",
+      "email": "ankit@prepai.edu",
+      "password": "$2b$10$8hsUMJ8pPOLnrV.ph6on1uPK0e963yBqV6sFkiZphS3XhGtv7iom2",
+      "role": "learner",
+      "targetExam": "JEE Advanced 2026",
+      "targetCategory": "entrance",
+      "examDate": "2026-05-24",
+      "streak": 7,
+      "readinessScore": 82,
+      "dailyGoalHours": 4,
+      "todayCompletedTasks": 3,
+      "_id": "7a82ac6f6b6fdfcc971eb568",
+      "id": "9fa74104264156aafa13dad8",
+      "createdAt": "2026-11-02T17:09:09.358Z"
+    },
+    {
+      "name": "Dr. Ramesh Sharma",
+      "email": "sme@prepai.edu",
+      "password": "$2b$10$PfVwxXSmWpvvVe26yROT1uJFrZhBXVEhgyOpRfe4KhNfyWmMxrgge",
+      "role": "content_author",
+      "targetExam": "UPSC CSE",
+      "targetCategory": "entrance",
+      "examDate": "2026-05-24",
+      "streak": 14,
+      "readinessScore": 82,
+      "dailyGoalHours": 4,
+      "todayCompletedTasks": 3,
+      "_id": "fb380eb96a8bdfab9747ed77",
+      "id": "9cb43430ab0dab1c267e2de7",
+      "createdAt": "2026-11-02T17:09:09.428Z"
+    },
+    {
+      "name": "Master Admin Team",
+      "email": "admin@prepai.io",
+      "password": "$2b$10$rLtJ119gc46PlKevu9/aLO.89WSH/TLyIR.5BmMRFIXPYEaQjk82u",
+      "role": "admin",
+      "targetExam": "Platform Operations",
+      "targetCategory": "entrance",
+      "examDate": "2026-05-24",
+      "streak": 30,
+      "readinessScore": 82,
+      "dailyGoalHours": 4,
+      "todayCompletedTasks": 3,
+      "_id": "3030aef9da7359a35a8605e1",
+      "id": "4f9fd941f5a8e06f2119d203",
+      "createdAt": "2026-11-02T17:09:09.493Z"
+    }
+  ],
+  "questions": [
+    {
+      "id": "HR001",
+      "category": "HR",
+      "difficulty": "easy",
+      "question": "Tell me about yourself.",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Briefly describe your education, key skills, and career goals.",
+      "explanation": "Focus on professional background and keep it concise.",
+      "keywords": [
+        "introduction",
+        "background",
+        "experience",
+        "skills"
+      ],
+      "_id": "259d76707a6cb739bb4cf5eb",
+      "createdAt": "2026-04-15T08:35:53.800Z"
+    },
+    {
+      "id": "HR002",
+      "category": "HR",
+      "difficulty": "easy",
+      "question": "What are your strengths?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Mention 2-3 professional strengths with brief examples.",
+      "explanation": "Choose traits that align with the job role.",
+      "keywords": [
+        "strengths",
+        "skills",
+        "positive",
+        "attributes"
+      ],
+      "_id": "84051864effb3a9e0f4d0e00",
+      "createdAt": "2026-04-15T08:35:53.800Z"
+    },
+    {
+      "id": "HR003",
+      "category": "HR",
+      "difficulty": "easy",
+      "question": "What are your weaknesses?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Mention a real weakness and how you are working to improve it.",
+      "explanation": "Show self-awareness and a growth mindset.",
+      "keywords": [
+        "weakness",
+        "improvement",
+        "growth",
+        "learning"
+      ],
+      "_id": "a1742a6f66ead782a56a459c",
+      "createdAt": "2026-04-15T08:35:53.800Z"
+    },
+    {
+      "id": "HR004",
+      "category": "HR",
+      "difficulty": "easy",
+      "question": "Why do you want to work for this company?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Align your career goals with the company's mission and values.",
+      "explanation": "Shows you have researched the organization.",
+      "keywords": [
+        "mission",
+        "values",
+        "goals",
+        "company"
+      ],
+      "_id": "445e80f4783da19ca100aa82",
+      "createdAt": "2026-04-15T08:35:53.800Z"
+    },
+    {
+      "id": "HR005",
+      "category": "HR",
+      "difficulty": "easy",
+      "question": "Where do you see yourself in 5 years?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Acknowledge growth within the company and skill development.",
+      "explanation": "Shows commitment and ambition.",
+      "keywords": [
+        "future",
+        "growth",
+        "ambition",
+        "goals"
+      ],
+      "_id": "0e4d96d6d5460be984ad82ef",
+      "createdAt": "2026-04-15T08:35:53.800Z"
+    },
+    {
+      "id": "HR006",
+      "category": "HR",
+      "difficulty": "easy",
+      "question": "What motivates you?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Success, learning new things, or solving problems.",
+      "explanation": "Helps the interviewer understand your drive.",
+      "keywords": [
+        "motivation",
+        "passion",
+        "drive",
+        "work"
+      ],
+      "_id": "9bbeb26c8aed7674e3339b72",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "HR007",
+      "category": "HR",
+      "difficulty": "easy",
+      "question": "How do you handle stress or pressure?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Stay organized, prioritize tasks, and keep a calm mind.",
+      "explanation": "Demonstrates resilience and professionalism.",
+      "keywords": [
+        "stress",
+        "pressure",
+        "calm",
+        "prioritize"
+      ],
+      "_id": "6f09121cc3f8fa39f9122da6",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "HR008",
+      "category": "HR",
+      "difficulty": "easy",
+      "question": "What is your idea of a dream job?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A role that matches your skills and offers growth opportunities.",
+      "explanation": "Helps check if the current role is a good fit.",
+      "keywords": [
+        "dream",
+        "career",
+        "fit",
+        "satisfaction"
+      ],
+      "_id": "b05ea085957faacd130456a0",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "HR009",
+      "category": "HR",
+      "difficulty": "easy",
+      "question": "Are you a team player or an individual contributor?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Comfortable with both, but emphasize teamwork for collaborative environments.",
+      "explanation": "Most corporate roles require teamwork.",
+      "keywords": [
+        "teamwork",
+        "collaborative",
+        "individual",
+        "group"
+      ],
+      "_id": "2874b4c98542dcbb17e8b3ac",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "HR010",
+      "category": "HR",
+      "difficulty": "easy",
+      "question": "Why should we hire you?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Summary of your skills, enthusiasm, and potential contribution.",
+      "explanation": "Your final pitch to the interviewer.",
+      "keywords": [
+        "hire",
+        "value",
+        "skills",
+        "unique"
+      ],
+      "_id": "78e2e11cefa7c4451c1cac1d",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "HR011",
+      "category": "HR",
+      "difficulty": "medium",
+      "question": "Describe a conflict you had with a colleague and how you resolved it.",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Explain the situation, the resolution steps, and a positive outcome.",
+      "explanation": "Tests conflict resolution and interpersonal skills.",
+      "keywords": [
+        "conflict",
+        "resolution",
+        "colleague",
+        "communication"
+      ],
+      "_id": "df769d5db8533ed48486c92c",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "HR012",
+      "category": "HR",
+      "difficulty": "medium",
+      "question": "Tell me about a time you failed and what you learned from it.",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Admit a mistake, take responsibility, and explain what you learned.",
+      "explanation": "Demonstrates accountability and growth.",
+      "keywords": [
+        "failure",
+        "mistake",
+        "learned",
+        "responsibility"
+      ],
+      "_id": "ba84a041ec984e2f28cf4df4",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "HR013",
+      "category": "HR",
+      "difficulty": "medium",
+      "question": "How do you handle criticism?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Take it constructively, stay professional, and use it to improve.",
+      "explanation": "Shows maturity and openness to feedback.",
+      "keywords": [
+        "criticism",
+        "feedback",
+        "improvement",
+        "professional"
+      ],
+      "_id": "1139f26a1fd96feaa7214be8",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "HR014",
+      "category": "HR",
+      "difficulty": "medium",
+      "question": "What would you do if you disagreed with your manager's decision?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Discuss it privately with reasons, but follow the final decision professionally.",
+      "explanation": "Evaluates communication and respect for hierarchy.",
+      "keywords": [
+        "disagree",
+        "manager",
+        "professional",
+        "communication"
+      ],
+      "_id": "61468e71d92fb6816f642e66",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "HR015",
+      "category": "HR",
+      "difficulty": "medium",
+      "question": "Describe your work style.",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Organized, focused, and proactive in communication.",
+      "explanation": "Helps the interviewer see how you fit in the team.",
+      "keywords": [
+        "work",
+        "style",
+        "organized",
+        "proactive"
+      ],
+      "_id": "db471e3416a3cb4b1eb1f62e",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "HR016",
+      "category": "HR",
+      "difficulty": "medium",
+      "question": "How do you prioritize multiple tasks with tight deadlines?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Using tools, assessing urgency, and focusing on high-impact tasks.",
+      "explanation": "Tests time management skills.",
+      "keywords": [
+        "prioritize",
+        "deadlines",
+        "urgency",
+        "time"
+      ],
+      "_id": "14fa939df6f30e0e6ca3698b",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "HR017",
+      "category": "HR",
+      "difficulty": "hard",
+      "question": "Tell me about a time you went above and beyond for a project.",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Provide a specific example of exceeding expectations.",
+      "explanation": "Demonstrates initiative and dedication.",
+      "keywords": [
+        "initiative",
+        "project",
+        "effort",
+        "exceed"
+      ],
+      "_id": "0aad5285ffdb1a2a5c86a7b4",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "HR018",
+      "category": "HR",
+      "difficulty": "hard",
+      "question": "What is the most difficult decision you've had to make?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Describe a tough choice, your thought process, and the outcome.",
+      "explanation": "Evaluates critical thinking and decisiveness.",
+      "keywords": [
+        "decision",
+        "tough",
+        "logic",
+        "outcome"
+      ],
+      "_id": "2524d2cfae7806a9b2eb9d4c",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "HR019",
+      "category": "HR",
+      "difficulty": "hard",
+      "question": "How do you handle a teammate who isn't pulling their weight?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Communicate openly, offer help, and involve a lead if necessary.",
+      "explanation": "Tests leadership and peer management.",
+      "keywords": [
+        "teammate",
+        "accountability",
+        "lead",
+        "help"
+      ],
+      "_id": "cd67160b2e85e6141ed28790",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "HR020",
+      "category": "HR",
+      "difficulty": "hard",
+      "question": "If you saw a colleague being unethical, what would you do?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Follow company policy and report it to the designated authority.",
+      "explanation": "Tests integrity and professional ethics.",
+      "keywords": [
+        "integrity",
+        "unethical",
+        "policy",
+        "report"
+      ],
+      "_id": "62a15713567f094911994199",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA001",
+      "category": "DSA",
+      "difficulty": "easy",
+      "question": "What is the time complexity of searching an element in a sorted array using Binary Search?",
+      "type": "mcq",
+      "options": [
+        "O(n)",
+        "O(log n)",
+        "O(n^2)",
+        "O(1)"
+      ],
+      "correctAnswer": "O(log n)",
+      "explanation": "Binary search divides the search space in half each step.",
+      "keywords": [
+        "binary search",
+        "time complexity",
+        "logarithmic"
+      ],
+      "_id": "47f061c8ed8d965a6740e106",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA002",
+      "category": "DSA",
+      "difficulty": "easy",
+      "question": "Which data structure follows the LIFO (Last In First Out) principle?",
+      "type": "mcq",
+      "options": [
+        "Queue",
+        "Stack",
+        "Linked List",
+        "Tree"
+      ],
+      "correctAnswer": "Stack",
+      "explanation": "Stacks add and remove elements from the same end (top).",
+      "keywords": [
+        "stack",
+        "lifo",
+        "data structure"
+      ],
+      "_id": "975f92f72663649c6bee63f8",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA003",
+      "category": "DSA",
+      "difficulty": "easy",
+      "question": "What is the average time complexity of inserting a value into a Hash Table?",
+      "type": "mcq",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n^2)"
+      ],
+      "correctAnswer": "O(1)",
+      "explanation": "Hash tables provide near-constant time access using a hash function.",
+      "keywords": [
+        "hash table",
+        "insertion",
+        "constant time"
+      ],
+      "_id": "805c475415c7e410a3faa071",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA004",
+      "category": "DSA",
+      "difficulty": "easy",
+      "question": "What is an array?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A collection of elements stored in contiguous memory locations.",
+      "explanation": "Arrays allow random access via indices.",
+      "keywords": [
+        "array",
+        "contiguous",
+        "memory",
+        "collection"
+      ],
+      "_id": "3e7d1d3d66af66e3acdf599b",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA005",
+      "category": "DSA",
+      "difficulty": "easy",
+      "question": "Explain the difference between a Singly Linked List and a Doubly Linked List.",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Singly has one pointer to next; Doubly has pointers to both next and previous.",
+      "explanation": "Doubly linked lists allow bidirectional traversal but use more memory.",
+      "keywords": [
+        "linked list",
+        "pointer",
+        "singly",
+        "doubly"
+      ],
+      "_id": "40b8255583847775e04ed0d0",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA006",
+      "category": "DSA",
+      "difficulty": "easy",
+      "question": "What is a NULL pointer?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A pointer that does not point to any valid memory location.",
+      "explanation": "It is used to indicate that the pointer is not initialized.",
+      "keywords": [
+        "pointer",
+        "null",
+        "memory",
+        "address"
+      ],
+      "_id": "21d023156d3213e94bc0e56b",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA007",
+      "category": "DSA",
+      "difficulty": "easy",
+      "question": "Which sorting algorithm is generally considered the fastest for average cases?",
+      "type": "mcq",
+      "options": [
+        "Bubble Sort",
+        "Insertion Sort",
+        "Selection Sort",
+        "Quick Sort"
+      ],
+      "correctAnswer": "Quick Sort",
+      "explanation": "Quick Sort has an average time complexity of O(n log n).",
+      "keywords": [
+        "sorting",
+        "quick sort",
+        "efficiency"
+      ],
+      "_id": "a9e1e16b167bbdec1381edf8",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA008",
+      "category": "DSA",
+      "difficulty": "easy",
+      "question": "What is a queue?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A linear data structure that follows the FIFO (First In First Out) principle.",
+      "explanation": "Elements are added at the rear and removed from the front.",
+      "keywords": [
+        "queue",
+        "fifo",
+        "linear",
+        "rear",
+        "front"
+      ],
+      "_id": "480dcf1aacb6223ecc23155d",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA009",
+      "category": "DSA",
+      "difficulty": "easy",
+      "question": "In a binary tree, how many children can a node have at most?",
+      "type": "mcq",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "Unlimited"
+      ],
+      "correctAnswer": "2",
+      "explanation": "A binary tree node can have 0, 1, or 2 children.",
+      "keywords": [
+        "binary tree",
+        "node",
+        "children"
+      ],
+      "_id": "9643ce74255e31b23fead635",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA010",
+      "category": "DSA",
+      "difficulty": "easy",
+      "question": "What is the space complexity of an array of size n?",
+      "type": "mcq",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n^2)"
+      ],
+      "correctAnswer": "O(n)",
+      "explanation": "An array takes space proportional to the number of elements.",
+      "keywords": [
+        "space complexity",
+        "array",
+        "linear"
+      ],
+      "_id": "080621191ae6dbe61893707c",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA011",
+      "category": "DSA",
+      "difficulty": "easy",
+      "question": "What is a leaf node in a tree?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A node that does not have any children.",
+      "explanation": "Leaf nodes are the external nodes of a tree structure.",
+      "keywords": [
+        "leaf node",
+        "tree",
+        "no children"
+      ],
+      "_id": "3e303b842d945cfebe27fd19",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA012",
+      "category": "DSA",
+      "difficulty": "easy",
+      "question": "What happens in a 'Stack Overflow'?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Trying to push an element into a stack that is already full.",
+      "explanation": "Commonly occurs in deep recursion without base cases.",
+      "keywords": [
+        "stack overflow",
+        "full",
+        "recursion",
+        "error"
+      ],
+      "_id": "47f0026b1abf8429aa2abe6b",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA013",
+      "category": "DSA",
+      "difficulty": "medium",
+      "question": "What is the worst-case time complexity of Quick Sort?",
+      "type": "mcq",
+      "options": [
+        "O(n log n)",
+        "O(n)",
+        "O(n^2)",
+        "O(log n)"
+      ],
+      "correctAnswer": "O(n^2)",
+      "explanation": "Worst case occurs when the pivot is the smallest or largest element.",
+      "keywords": [
+        "quick sort",
+        "worst case",
+        "quadratic"
+      ],
+      "_id": "e34f2bc07646cbcb755f1781",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA014",
+      "category": "DSA",
+      "difficulty": "medium",
+      "question": "Explain recursion.",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A process where a function calls itself directly or indirectly.",
+      "explanation": "Requires a base case to prevent infinite loops.",
+      "keywords": [
+        "recursion",
+        "call",
+        "base case",
+        "function"
+      ],
+      "_id": "f9a549343eaa5a068ebd6217",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA015",
+      "category": "DSA",
+      "difficulty": "medium",
+      "question": "What is a Hash Collision?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "When two different keys produce the same hash value.",
+      "explanation": "Handled via chaining or open addressing.",
+      "keywords": [
+        "collision",
+        "hash",
+        "keys",
+        "mapping"
+      ],
+      "_id": "cb5f9e7440951a0a719d6b28",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA016",
+      "category": "DSA",
+      "difficulty": "medium",
+      "question": "What is the difference between BFS and DFS?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "BFS explores level by level; DFS explores as deep as possible first.",
+      "explanation": "BFS uses a Queue; DFS uses a Stack (or recursion).",
+      "keywords": [
+        "bfs",
+        "dfs",
+        "traversal",
+        "graph"
+      ],
+      "_id": "9ddd9f010c32c1234783852d",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA017",
+      "category": "DSA",
+      "difficulty": "medium",
+      "question": "Which data structure is best for checking balanced parentheses?",
+      "type": "mcq",
+      "options": [
+        "Queue",
+        "Stack",
+        "Heap",
+        "Tree"
+      ],
+      "correctAnswer": "Stack",
+      "explanation": "Each opening bracket is pushed; matching closing bracket pops it.",
+      "keywords": [
+        "parentheses",
+        "balancing",
+        "stack"
+      ],
+      "_id": "40bb2fca967089412e5d4bf2",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA018",
+      "category": "DSA",
+      "difficulty": "medium",
+      "question": "What is a Priority Queue?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A queue where each element has a priority; high priority elements are served first.",
+      "explanation": "Usually implemented using a Heap data structure.",
+      "keywords": [
+        "priority queue",
+        "heap",
+        "priority"
+      ],
+      "_id": "9dd7abba4cba78d17be13459",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA019",
+      "category": "DSA",
+      "difficulty": "medium",
+      "question": "What is dynamic programming?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Solving complex problems by breaking them into overlapping subproblems.",
+      "explanation": "Uses memoization or tabulation to avoid redundant work.",
+      "keywords": [
+        "dynamic programming",
+        "optimization",
+        "subproblems",
+        "memoization"
+      ],
+      "_id": "8692099cd3d1626701e98cea",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA020",
+      "category": "DSA",
+      "difficulty": "medium",
+      "question": "What is a Binary Search Tree (BST)?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A tree where left children are smaller and right children are larger than the parent.",
+      "explanation": "Allows efficient searching, insertion, and deletion.",
+      "keywords": [
+        "bst",
+        "binary search tree",
+        "order"
+      ],
+      "_id": "12a959625ef0d6371abc1c4d",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA021",
+      "category": "DSA",
+      "difficulty": "hard",
+      "question": "What is Dijkstra's algorithm used for?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Finding the shortest path between nodes in a weighted graph.",
+      "explanation": "Uses a greedy approach with a priority queue.",
+      "keywords": [
+        "dijkstra",
+        "shortest path",
+        "graph",
+        "weighted"
+      ],
+      "_id": "e422594f550bc7ba9f096282",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA022",
+      "category": "DSA",
+      "difficulty": "hard",
+      "question": "Explain the concept of 'In-order' traversal in a BST.",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Visiting left child, then parent, then right child.",
+      "explanation": "Results in elements being visited in sorted order.",
+      "keywords": [
+        "inorder",
+        "traversal",
+        "sorted",
+        "bst"
+      ],
+      "_id": "5c32d5c46de4f3fa2575061b",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA023",
+      "category": "DSA",
+      "difficulty": "hard",
+      "question": "What is an AVL tree?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A self-balancing binary search tree where the balance factor is at most 1.",
+      "explanation": "Maintains O(log n) height by performing rotations.",
+      "keywords": [
+        "avl",
+        "self-balancing",
+        "rotations",
+        "height"
+      ],
+      "_id": "561d2362e9a64fa83cc75195",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA024",
+      "category": "DSA",
+      "difficulty": "hard",
+      "question": "What is the difference between a Graph and a Tree?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A tree is a connected graph without cycles.",
+      "explanation": "Graphs can have cycles and multiple paths between nodes.",
+      "keywords": [
+        "graph",
+        "tree",
+        "cycles",
+        "connected"
+      ],
+      "_id": "688f1853d8feb706ac8e1a3f",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "DSA025",
+      "category": "DSA",
+      "difficulty": "hard",
+      "question": "What is a Red-Black Tree?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A self-balancing BST with an extra bit for color (red/black) to ensure balance.",
+      "explanation": "Provides guaranteed O(log n) performance for all operations.",
+      "keywords": [
+        "red black tree",
+        "balancing",
+        "color",
+        "bst"
+      ],
+      "_id": "ea06c9dec742b368635f6389",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE001",
+      "category": "Frontend",
+      "difficulty": "easy",
+      "question": "What does HTML stand for?",
+      "type": "mcq",
+      "options": [
+        "Hyper Text Markup Language",
+        "High Text Machine Language",
+        "Hyper Tabular Markup Level",
+        "None"
+      ],
+      "correctAnswer": "Hyper Text Markup Language",
+      "explanation": "Standard language for creating web pages.",
+      "keywords": [
+        "html",
+        "markup",
+        "language"
+      ],
+      "_id": "88f964d143cb6be07edb56b0",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE002",
+      "category": "Frontend",
+      "difficulty": "easy",
+      "question": "Which tag is used to create a hyperlink in HTML?",
+      "type": "mcq",
+      "options": [
+        "<link>",
+        "<a>",
+        "<href>",
+        "<url>"
+      ],
+      "correctAnswer": "<a>",
+      "explanation": "The anchor tag (<a>) with 'href' attribute creates links.",
+      "keywords": [
+        "anchor",
+        "link",
+        "hyperlink"
+      ],
+      "_id": "ddb8417f2a949f51f10d79d4",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE003",
+      "category": "Frontend",
+      "difficulty": "easy",
+      "question": "What is the purpose of the 'alt' attribute in an image tag?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Provides alternative text if the image fails to load or for screen readers.",
+      "explanation": "Crucial for web accessibility (A11y).",
+      "keywords": [
+        "alt",
+        "accessibility",
+        "image",
+        "text"
+      ],
+      "_id": "6a557c030a7cb2c660b79cd3",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE004",
+      "category": "Frontend",
+      "difficulty": "easy",
+      "question": "What is the default value of the 'position' property in CSS?",
+      "type": "mcq",
+      "options": [
+        "Relative",
+        "Absolute",
+        "Static",
+        "Fixed"
+      ],
+      "correctAnswer": "Static",
+      "explanation": "Elements are positioned according to the normal flow of the page.",
+      "keywords": [
+        "position",
+        "static",
+        "flow"
+      ],
+      "_id": "e2bfb6340b6598645a5ed4f0",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE005",
+      "category": "Frontend",
+      "difficulty": "easy",
+      "question": "Explain the CSS Box Model.",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Consists of margin, border, padding, and content.",
+      "explanation": "Defines how elements are sized and spaced.",
+      "keywords": [
+        "box model",
+        "margin",
+        "padding",
+        "border"
+      ],
+      "_id": "5af73332834386e510bf8082",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE006",
+      "category": "Frontend",
+      "difficulty": "easy",
+      "question": "How do you select an element with id 'header' in CSS?",
+      "type": "mcq",
+      "options": [
+        ".header",
+        "#header",
+        "header",
+        "*header"
+      ],
+      "correctAnswer": "#header",
+      "explanation": "'#' is used for IDs, and '.' is used for classes.",
+      "keywords": [
+        "css",
+        "id selector",
+        "header"
+      ],
+      "_id": "ad951f3d17bd3e1d28164ef8",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE007",
+      "category": "Frontend",
+      "difficulty": "easy",
+      "question": "What is React?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A JavaScript library for building user interfaces.",
+      "explanation": "Maintained by Meta (Facebook) and uses components.",
+      "keywords": [
+        "react",
+        "ui",
+        "library",
+        "javascript"
+      ],
+      "_id": "5242407fa7809aa199621864",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE008",
+      "category": "Frontend",
+      "difficulty": "easy",
+      "question": "What is JSX?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A syntax extension for JavaScript that looks like HTML.",
+      "explanation": "Stands for JavaScript XML, used in React to describe UI.",
+      "keywords": [
+        "jsx",
+        "javascript",
+        "xml",
+        "react"
+      ],
+      "_id": "3312039029ddb773c7228bf6",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE009",
+      "category": "Frontend",
+      "difficulty": "easy",
+      "question": "Which hook is used for managing state in a React functional component?",
+      "type": "mcq",
+      "options": [
+        "useEffect",
+        "useState",
+        "useContext",
+        "useReducer"
+      ],
+      "correctAnswer": "useState",
+      "explanation": "useState allows functional components to have local state.",
+      "keywords": [
+        "usestate",
+        "state",
+        "react",
+        "hook"
+      ],
+      "_id": "b1aac567de30f41e914cd588",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE010",
+      "category": "Frontend",
+      "difficulty": "easy",
+      "question": "What is the purpose of 'useState'?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "To allow functional components to store and update internal data.",
+      "explanation": "Triggers a re-render when the state is updated.",
+      "keywords": [
+        "usestate",
+        "state",
+        "render",
+        "update"
+      ],
+      "_id": "71992b7803323aaedc6ce3fa",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE011",
+      "category": "Frontend",
+      "difficulty": "medium",
+      "question": "What is the difference between '==' and '===' in JavaScript?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "== compares values only (coercion); === compares both value and type.",
+      "explanation": "It's best practice to use === to avoid unexpected bugs.",
+      "keywords": [
+        "comparison",
+        "equality",
+        "type",
+        "coercion"
+      ],
+      "_id": "20530b6ba8db50181fad5590",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE012",
+      "category": "Frontend",
+      "difficulty": "medium",
+      "question": "What is the Virtual DOM in React?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A lightweight copy of the real DOM used for performance optimization.",
+      "explanation": "React compares it with the real DOM and updates only changes.",
+      "keywords": [
+        "virtual dom",
+        "reconciliation",
+        "performance"
+      ],
+      "_id": "25af7f9021f7bf564b295a2c",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE013",
+      "category": "Frontend",
+      "difficulty": "medium",
+      "question": "Explain 'lifting state up' in React.",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Moving state to a common parent component so children can share it.",
+      "explanation": "Helps sync data between sibling components.",
+      "keywords": [
+        "lifting state",
+        "props",
+        "parent",
+        "component"
+      ],
+      "_id": "60ea7aac8f6bae6c46e37ace",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE014",
+      "category": "Frontend",
+      "difficulty": "medium",
+      "question": "What are React Props?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Read-only arguments passed from parent to child components.",
+      "explanation": "Stands for 'properties', data flows one-way (parent to child).",
+      "keywords": [
+        "props",
+        "properties",
+        "arguments",
+        "child"
+      ],
+      "_id": "9f79d5e4aa9fff0fdaccc54f",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE015",
+      "category": "Frontend",
+      "difficulty": "medium",
+      "question": "What is the use of the 'useEffect' hook?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "To perform side effects in functional components like fetching data.",
+      "explanation": "Handles lifecycle events like mounting, updating, and unmounting.",
+      "keywords": [
+        "useeffect",
+        "hook",
+        "side effects",
+        "fetching"
+      ],
+      "_id": "ed291819d267f05baf0feb5b",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE016",
+      "category": "Frontend",
+      "difficulty": "medium",
+      "question": "Which CSS property is used for creating flexible layouts?",
+      "type": "mcq",
+      "options": [
+        "Grid",
+        "Flexbox",
+        "Table",
+        "Float"
+      ],
+      "correctAnswer": "Flexbox",
+      "explanation": "Flexbox provides a more efficient way to align items.",
+      "keywords": [
+        "flexbox",
+        "flex",
+        "alignment",
+        "layout"
+      ],
+      "_id": "8a7f1a1414404791ffd0ecce",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE017",
+      "category": "Frontend",
+      "difficulty": "hard",
+      "question": "What is Closures in JavaScript?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A function that has access to its outer scope even after it has closed.",
+      "explanation": "Remembers the environment in which it was created.",
+      "keywords": [
+        "closure",
+        "scope",
+        "function",
+        "inner"
+      ],
+      "_id": "4c3bbbcc4b2684a4d5e83c59",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE018",
+      "category": "Frontend",
+      "difficulty": "hard",
+      "question": "Explain the concept of 'Hoisting'.",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "JS behavior of moving declarations to the top of the scope.",
+      "explanation": "Variables declared with 'var' are hoisted, but not initialized.",
+      "keywords": [
+        "hoisting",
+        "declaration",
+        "scope",
+        "javascript"
+      ],
+      "_id": "99ff1fb43a4ece45bbf01957",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE019",
+      "category": "Frontend",
+      "difficulty": "hard",
+      "question": "What is the difference between Redux and Context API?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Redux is a library for complex state; Context API is built-in for simple sharing.",
+      "explanation": "Redux offers better debugging tools and clear flow.",
+      "keywords": [
+        "redux",
+        "context",
+        "state",
+        "management"
+      ],
+      "_id": "10dff56fcf7f7e6b4783c38f",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "FE020",
+      "category": "Frontend",
+      "difficulty": "hard",
+      "question": "What are Higher-Order Components (HOC)?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A function that takes a component and returns a new component.",
+      "explanation": "Used for code reuse and cross-cutting concerns.",
+      "keywords": [
+        "hoc",
+        "higher order",
+        "component",
+        "reuse"
+      ],
+      "_id": "36cc686031bccf7500095a9e",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE001",
+      "category": "Backend",
+      "difficulty": "easy",
+      "question": "What is Node.js?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A JavaScript runtime built on Chrome's V8 engine.",
+      "explanation": "Allows JavaScript to be run on the server-side.",
+      "keywords": [
+        "node",
+        "runtime",
+        "server",
+        "v8"
+      ],
+      "_id": "149c81487f83a38a209c0cc7",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE002",
+      "category": "Backend",
+      "difficulty": "easy",
+      "question": "What is npm?",
+      "type": "mcq",
+      "options": [
+        "Node Project Manager",
+        "Node Package Manager",
+        "New Package Manager",
+        "None"
+      ],
+      "correctAnswer": "Node Package Manager",
+      "explanation": "Default package manager for Node.js to manage dependencies.",
+      "keywords": [
+        "npm",
+        "package",
+        "dependencies"
+      ],
+      "_id": "af69339a4b7254970ebcd20d",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE003",
+      "category": "Backend",
+      "difficulty": "easy",
+      "question": "Which function is used to include modules in Node.js?",
+      "type": "mcq",
+      "options": [
+        "include()",
+        "require()",
+        "import()",
+        "attach()"
+      ],
+      "correctAnswer": "require()",
+      "explanation": "Uses CommonJS module system to load external modules.",
+      "keywords": [
+        "require",
+        "modules",
+        "node"
+      ],
+      "_id": "05c931919a48cc4321e6707b",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE004",
+      "category": "Backend",
+      "difficulty": "easy",
+      "question": "What is Express.js?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A minimal and flexible web application framework for Node.js.",
+      "explanation": "Provides features for web and mobile applications.",
+      "keywords": [
+        "express",
+        "framework",
+        "web",
+        "node"
+      ],
+      "_id": "f17dcca29fe9f898c61efcea",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE005",
+      "category": "Backend",
+      "difficulty": "easy",
+      "question": "What does HTTP status code 200 mean?",
+      "type": "mcq",
+      "options": [
+        "Created",
+        "Bad Request",
+        "Forbidden",
+        "OK"
+      ],
+      "correctAnswer": "OK",
+      "explanation": "Indicates that the request has succeeded.",
+      "keywords": [
+        "http",
+        "200",
+        "status",
+        "ok"
+      ],
+      "_id": "112999b677c35d9ce3c66483",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE006",
+      "category": "Backend",
+      "difficulty": "easy",
+      "question": "What does HTTP status code 404 mean?",
+      "type": "mcq",
+      "options": [
+        "Internal Server Error",
+        "Not Found",
+        "Unauthorized",
+        "Forbidden"
+      ],
+      "correctAnswer": "Not Found",
+      "explanation": "Indicates the requested resource could not be found.",
+      "keywords": [
+        "http",
+        "404",
+        "not found"
+      ],
+      "_id": "859b1c827c9f47f9c23812c3",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE007",
+      "category": "Backend",
+      "difficulty": "easy",
+      "question": "What is a Middleware in Express?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Functions that have access to the request, response, and next function.",
+      "explanation": "Used for tasks like logging, authentication, and parsing.",
+      "keywords": [
+        "middleware",
+        "express",
+        "request",
+        "response"
+      ],
+      "_id": "acc4b2f2d3090ba07527b0f7",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE008",
+      "category": "Backend",
+      "difficulty": "easy",
+      "question": "What is the purpose of the 'package.json' file?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "To list the dependencies and metadata of a project.",
+      "explanation": "Stores scripts, version, and library names.",
+      "keywords": [
+        "package.json",
+        "metadata",
+        "dependencies"
+      ],
+      "_id": "64b01b0c36d158abc5aaa313",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE009",
+      "category": "Backend",
+      "difficulty": "easy",
+      "question": "What is the default port for local Node.js development servers?",
+      "type": "mcq",
+      "options": [
+        "80",
+        "443",
+        "3000",
+        "8080"
+      ],
+      "correctAnswer": "3000",
+      "explanation": "Often configured manually, but 3000 is the standard convention.",
+      "keywords": [
+        "port",
+        "3000",
+        "server"
+      ],
+      "_id": "c77757ff670e05b9c0bab140",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE010",
+      "category": "Backend",
+      "difficulty": "easy",
+      "question": "What is MongoDB?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A NoSQL, document-oriented database program.",
+      "explanation": "Uses JSON-like documents with optional schemas.",
+      "keywords": [
+        "mongodb",
+        "nosql",
+        "database",
+        "document"
+      ],
+      "_id": "5b0be8a7509048bbfbbb4d0a",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE011",
+      "category": "Backend",
+      "difficulty": "medium",
+      "question": "Explain the difference between SQL and NoSQL databases.",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "SQL is relational (tables); NoSQL is non-relational (documents/keys).",
+      "explanation": "SQL uses schemas; NoSQL is flexible and scales horizontally.",
+      "keywords": [
+        "sql",
+        "nosql",
+        "relational",
+        "document"
+      ],
+      "_id": "7098e0002be9d5169095024c",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE012",
+      "category": "Backend",
+      "difficulty": "medium",
+      "question": "What is the Event Loop in Node.js?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A mechanism that allows Node to perform non-blocking I/O operations.",
+      "explanation": "Offloads operations to the system kernel whenever possible.",
+      "keywords": [
+        "event loop",
+        "non-blocking",
+        "io",
+        "node"
+      ],
+      "_id": "c7dbfd0e40cab566eedf17e7",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE013",
+      "category": "Backend",
+      "difficulty": "medium",
+      "question": "What is RESTful API?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "An architectural style that use HTTP requests to access and use data.",
+      "explanation": "Stands for Representational State Transfer.",
+      "keywords": [
+        "rest",
+        "api",
+        "http",
+        "stateless"
+      ],
+      "_id": "9889d6d2bdd8da53656229dd",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE014",
+      "category": "Backend",
+      "difficulty": "medium",
+      "question": "Which method is used to send data to a server to create a new resource?",
+      "type": "mcq",
+      "options": [
+        "GET",
+        "POST",
+        "PUT",
+        "DELETE"
+      ],
+      "correctAnswer": "POST",
+      "explanation": "POST is used for creating; PUT/PATCH for updating.",
+      "keywords": [
+        "post",
+        "create",
+        "http"
+      ],
+      "_id": "ae7df5455823600cc9375dcb",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE015",
+      "category": "Backend",
+      "difficulty": "medium",
+      "question": "What is JSON Web Token (JWT)?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "A standard format for sharing security information between two parties.",
+      "explanation": "Used for stateless authentication in web apps.",
+      "keywords": [
+        "jwt",
+        "auth",
+        "token",
+        "stateless"
+      ],
+      "_id": "87613e13e2d858565a37cbe9",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE016",
+      "category": "Backend",
+      "difficulty": "medium",
+      "question": "What is the purpose of Mongoose?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "An Object Data Modeling (ODM) library for MongoDB and Node.js.",
+      "explanation": "Provides schema-based solutions for application data.",
+      "keywords": [
+        "mongoose",
+        "odm",
+        "mongodb",
+        "schema"
+      ],
+      "_id": "75a98e3e655afbc90bada383",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE017",
+      "category": "Backend",
+      "difficulty": "hard",
+      "question": "What is the significance of 'app.use()' in Express?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Used to mount middleware functions at a specified path.",
+      "explanation": "Executes middleware for every incoming request if no path is given.",
+      "keywords": [
+        "app.use",
+        "middleware",
+        "express",
+        "mount"
+      ],
+      "_id": "bac7bbe5a6b3f38f7227bd37",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE018",
+      "category": "Backend",
+      "difficulty": "hard",
+      "question": "Explain 'Callback Hell'.",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Extremely nested callbacks that make code hard to read and maintain.",
+      "explanation": "Can be solved using Promises or Async/Await.",
+      "keywords": [
+        "callback hell",
+        "nested",
+        "async",
+        "promises"
+      ],
+      "_id": "51ee121842b0d26a72251c7d",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE019",
+      "category": "Backend",
+      "difficulty": "hard",
+      "question": "How do you handle errors in asynchronous code in Node.js?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "Using try-catch blocks with async/await or .catch() with promises.",
+      "explanation": "Prevents the application from crashing unexpectedly.",
+      "keywords": [
+        "error",
+        "async",
+        "await",
+        "catch"
+      ],
+      "_id": "3656caab49c3e8e7191d5083",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "BE020",
+      "category": "Backend",
+      "difficulty": "hard",
+      "question": "What is the difference between path.join() and path.resolve()?",
+      "type": "text",
+      "options": [],
+      "correctAnswer": "join() concatenates paths; resolve() creates an absolute path.",
+      "explanation": "resolve() acts like a 'cd' command in the shell.",
+      "keywords": [
+        "path",
+        "join",
+        "resolve",
+        "absolute"
+      ],
+      "_id": "7e21f5a9097322a81ccadbde",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT001",
+      "category": "Aptitude",
+      "difficulty": "easy",
+      "question": "What is 25% of 200?",
+      "type": "mcq",
+      "options": [
+        "25",
+        "40",
+        "50",
+        "60"
+      ],
+      "correctAnswer": "50",
+      "explanation": "(25/100) * 200 = 50.",
+      "keywords": [
+        "percent",
+        "percentage",
+        "math"
+      ],
+      "_id": "503378789fc709972877a6fd",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT002",
+      "category": "Aptitude",
+      "difficulty": "easy",
+      "question": "If a train travels at 60 km/h, how far will it travel in 2 hours?",
+      "type": "mcq",
+      "options": [
+        "60 km",
+        "100 km",
+        "120 km",
+        "150 km"
+      ],
+      "correctAnswer": "120 km",
+      "explanation": "Distance = Speed * Time = 60 * 2 = 120 km.",
+      "keywords": [
+        "distance",
+        "speed",
+        "time"
+      ],
+      "_id": "f177e4a2237f25a373be66b5",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT003",
+      "category": "Aptitude",
+      "difficulty": "easy",
+      "question": "Find the average of 10, 20, 30, 40, 50.",
+      "type": "mcq",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correctAnswer": "30",
+      "explanation": "Sum = 150. Count = 5. Average = 150/5 = 30.",
+      "keywords": [
+        "average",
+        "mean",
+        "math"
+      ],
+      "_id": "c84b9d45ff446677b432da65",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT004",
+      "category": "Aptitude",
+      "difficulty": "easy",
+      "question": "What is the square root of 144?",
+      "type": "mcq",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "14"
+      ],
+      "correctAnswer": "12",
+      "explanation": "12 * 12 = 144.",
+      "keywords": [
+        "square root",
+        "math"
+      ],
+      "_id": "f397c73a1edb9bf068ec7472",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT005",
+      "category": "Aptitude",
+      "difficulty": "easy",
+      "question": "A rectangle has a length of 10cm and width of 5cm. What is its area?",
+      "type": "mcq",
+      "options": [
+        "15 sq cm",
+        "30 sq cm",
+        "50 sq cm",
+        "25 sq cm"
+      ],
+      "correctAnswer": "50 sq cm",
+      "explanation": "Area = Length * Width = 10 * 5 = 50.",
+      "keywords": [
+        "area",
+        "rectangle",
+        "geometry"
+      ],
+      "_id": "9bd5f0d9433f84d0da00c919",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT006",
+      "category": "Aptitude",
+      "difficulty": "easy",
+      "question": "Which number comes next in the sequence: 2, 4, 8, 16, ...?",
+      "type": "mcq",
+      "options": [
+        "20",
+        "24",
+        "32",
+        "64"
+      ],
+      "correctAnswer": "32",
+      "explanation": "Each number is multiplied by 2. 16 * 2 = 32.",
+      "keywords": [
+        "sequence",
+        "pattern",
+        "logical"
+      ],
+      "_id": "b16cf43388b9c0c658da3c10",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT007",
+      "category": "Aptitude",
+      "difficulty": "easy",
+      "question": "If 5 apples cost $10, how much do 8 apples cost?",
+      "type": "mcq",
+      "options": [
+        "$12",
+        "$14",
+        "$16",
+        "$20"
+      ],
+      "correctAnswer": "$16",
+      "explanation": "1 apple costs $2. 8 apples cost 8 * 2 = $16.",
+      "keywords": [
+        "ratio",
+        "cost",
+        "math"
+      ],
+      "_id": "82565ff516846690d6ed09f7",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT008",
+      "category": "Aptitude",
+      "difficulty": "easy",
+      "question": "A person buys a shirt for $40 and sells it for $50. What is the profit percentage?",
+      "type": "mcq",
+      "options": [
+        "10%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "correctAnswer": "25%",
+      "explanation": "Profit = $10. Profit % = (10/40) * 100 = 25%.",
+      "keywords": [
+        "profit",
+        "loss",
+        "percentage"
+      ],
+      "_id": "3207814907b635b65ec0d94b",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT009",
+      "category": "Aptitude",
+      "difficulty": "easy",
+      "question": "How many seconds are there in 5 minutes?",
+      "type": "mcq",
+      "options": [
+        "200",
+        "300",
+        "400",
+        "500"
+      ],
+      "correctAnswer": "300",
+      "explanation": "5 * 60 = 300.",
+      "keywords": [
+        "time",
+        "seconds",
+        "unit"
+      ],
+      "_id": "3f40528d8db753c6c681819c",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT010",
+      "category": "Aptitude",
+      "difficulty": "easy",
+      "question": "What is the sum of angles in a triangle?",
+      "type": "mcq",
+      "options": [
+        "90",
+        "180",
+        "270",
+        "360"
+      ],
+      "correctAnswer": "180",
+      "explanation": "The sum of all interior angles in any triangle is always 180 degrees.",
+      "keywords": [
+        "triangle",
+        "angles",
+        "geometry"
+      ],
+      "_id": "64ee2b7d694c96251399d074",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT011",
+      "category": "Aptitude",
+      "difficulty": "medium",
+      "question": "A can do a piece of work in 12 days. B can do it in 24 days. How many days for both together?",
+      "type": "mcq",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": "8",
+      "explanation": "Total = (12*24)/(12+24) = 288/36 = 8 days.",
+      "keywords": [
+        "work",
+        "time",
+        "rate"
+      ],
+      "_id": "87c057a50fd30b93fcfaa716",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT012",
+      "category": "Aptitude",
+      "difficulty": "medium",
+      "question": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
+      "type": "mcq",
+      "options": [
+        "40",
+        "50",
+        "60",
+        "70"
+      ],
+      "correctAnswer": "60",
+      "explanation": "Speed = 150/9 m/s. In km/h: (150/9) * (18/5) = 60.",
+      "keywords": [
+        "speed",
+        "train",
+        "pole"
+      ],
+      "_id": "ad8d24821903e38d79cec6f1",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT013",
+      "category": "Aptitude",
+      "difficulty": "medium",
+      "question": "The ratio of ages of father and son is 7:3. Sum is 60. What is the son's age?",
+      "type": "mcq",
+      "options": [
+        "12",
+        "15",
+        "18",
+        "21"
+      ],
+      "correctAnswer": "18",
+      "explanation": "10x = 60 -> x = 6. Son = 3 * 6 = 18.",
+      "keywords": [
+        "age",
+        "ratio",
+        "math"
+      ],
+      "_id": "23c4b3e6edb48710f0d60429",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT014",
+      "category": "Aptitude",
+      "difficulty": "medium",
+      "question": "What is the simple interest for $1000 at 5% rate for 2 years?",
+      "type": "mcq",
+      "options": [
+        "$50",
+        "$100",
+        "$150",
+        "$200"
+      ],
+      "correctAnswer": "$100",
+      "explanation": "SI = (P * R * T) / 100 = (1000 * 5 * 2) / 100 = 100.",
+      "keywords": [
+        "simple interest",
+        "math"
+      ],
+      "_id": "de146e26bec8a1a08ca2f2fe",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT015",
+      "category": "Aptitude",
+      "difficulty": "medium",
+      "question": "A man walks 3km North, then 4km East. How far is he from the start?",
+      "type": "mcq",
+      "options": [
+        "5 km",
+        "7 km",
+        "1 km",
+        "4 km"
+      ],
+      "correctAnswer": "5 km",
+      "explanation": "Using Pythagoras: sqrt(3^2 + 4^2) = sqrt(25) = 5.",
+      "keywords": [
+        "direction",
+        "distance",
+        "logical"
+      ],
+      "_id": "039101ddbda801b3bc64b141",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT016",
+      "category": "Aptitude",
+      "difficulty": "medium",
+      "question": "If 'WATER' is coded as 'XBUFS', how is 'FIRE' coded?",
+      "type": "mcq",
+      "options": [
+        "GJNF",
+        "EHQD",
+        "GJSF",
+        "FISH"
+      ],
+      "correctAnswer": "GJSF",
+      "explanation": "Each letter is shifted by +1. F->G, I->J, R->S, E->F.",
+      "keywords": [
+        "coding",
+        "logical",
+        "alphabet"
+      ],
+      "_id": "05172655c354e5eb48cbed2f",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT017",
+      "category": "Aptitude",
+      "difficulty": "hard",
+      "question": "A bag contains 5 red and 3 blue balls. What is the probability of picking a blue ball?",
+      "type": "mcq",
+      "options": [
+        "3/5",
+        "3/8",
+        "5/8",
+        "1/2"
+      ],
+      "correctAnswer": "3/8",
+      "explanation": "Total balls = 8. Blue balls = 3. Probability = 3/8.",
+      "keywords": [
+        "probability",
+        "math",
+        "logic"
+      ],
+      "_id": "5826ef4c3883d4ad3535f603",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT018",
+      "category": "Aptitude",
+      "difficulty": "hard",
+      "question": "The population of a city increases by 10% annually. If current is 1000, what will it be in 2 years?",
+      "type": "mcq",
+      "options": [
+        "1200",
+        "1210",
+        "1100",
+        "1310"
+      ],
+      "correctAnswer": "1210",
+      "explanation": "Year 1: 1100. Year 2: 1100 + 110 = 1210.",
+      "keywords": [
+        "percentage",
+        "population",
+        "increase"
+      ],
+      "_id": "e88f2f4d7256ebeca37fcee7",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT019",
+      "category": "Aptitude",
+      "difficulty": "hard",
+      "question": "How many ways can the letters of the word 'LEAD' be arranged?",
+      "type": "mcq",
+      "options": [
+        "12",
+        "24",
+        "48",
+        "6"
+      ],
+      "correctAnswer": "24",
+      "explanation": "4 distinct letters. Arrangements = 4! = 4*3*2*1 = 24.",
+      "keywords": [
+        "permutation",
+        "combination",
+        "logic"
+      ],
+      "_id": "e92adccc29ffa4a85b222fc5",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    },
+    {
+      "id": "APT020",
+      "category": "Aptitude",
+      "difficulty": "hard",
+      "question": "Find the odd one out: 27, 64, 125, 144.",
+      "type": "mcq",
+      "options": [
+        "27",
+        "64",
+        "125",
+        "144"
+      ],
+      "correctAnswer": "144",
+      "explanation": "27 (3³), 64 (4³), 125 (5³) are cubes. 144 (12²) is a square.",
+      "keywords": [
+        "odd one out",
+        "logical",
+        "math"
+      ],
+      "_id": "204f1b88af5f4f4a865101a6",
+      "createdAt": "2026-04-15T08:35:53.801Z"
+    }
+  ],
+  "results": [
+    {
+      "userId": "b0bfbdae7eb650fe8294229a",
+      "category": "DSA",
+      "totalScore": 3,
+      "totalQuestions": 10,
+      "answers": [
+        {
+          "questionId": "8692099cd3d1626701e98cea",
+          "question": "What is dynamic programming?",
+          "userAnswer": "",
+          "isCorrect": false,
+          "partialScore": 0,
+          "correctAnswer": "Solving complex problems by breaking them into overlapping subproblems.",
+          "explanation": "Uses memoization or tabulation to avoid redundant work."
+        },
+        {
+          "questionId": "9643ce74255e31b23fead635",
+          "question": "In a binary tree, how many children can a node have at most?",
+          "userAnswer": "2",
+          "isCorrect": true,
+          "partialScore": 1,
+          "correctAnswer": "2",
+          "explanation": "A binary tree node can have 0, 1, or 2 children."
+        },
+        {
+          "questionId": "080621191ae6dbe61893707c",
+          "question": "What is the space complexity of an array of size n?",
+          "userAnswer": "O(n)",
+          "isCorrect": true,
+          "partialScore": 1,
+          "correctAnswer": "O(n)",
+          "explanation": "An array takes space proportional to the number of elements."
+        },
+        {
+          "questionId": "e34f2bc07646cbcb755f1781",
+          "question": "What is the worst-case time complexity of Quick Sort?",
+          "userAnswer": "O(n log n)",
+          "isCorrect": false,
+          "partialScore": 0,
+          "correctAnswer": "O(n^2)",
+          "explanation": "Worst case occurs when the pivot is the smallest or largest element."
+        },
+        {
+          "questionId": "3e7d1d3d66af66e3acdf599b",
+          "question": "What is an array?",
+          "userAnswer": "",
+          "isCorrect": false,
+          "partialScore": 0,
+          "correctAnswer": "A collection of elements stored in contiguous memory locations.",
+          "explanation": "Arrays allow random access via indices."
+        },
+        {
+          "questionId": "975f92f72663649c6bee63f8",
+          "question": "Which data structure follows the LIFO (Last In First Out) principle?",
+          "userAnswer": "Stack",
+          "isCorrect": true,
+          "partialScore": 1,
+          "correctAnswer": "Stack",
+          "explanation": "Stacks add and remove elements from the same end (top)."
+        },
+        {
+          "questionId": "f9a549343eaa5a068ebd6217",
+          "question": "Explain recursion.",
+          "userAnswer": "",
+          "isCorrect": false,
+          "partialScore": 0,
+          "correctAnswer": "A process where a function calls itself directly or indirectly.",
+          "explanation": "Requires a base case to prevent infinite loops."
+        },
+        {
+          "questionId": "40b8255583847775e04ed0d0",
+          "question": "Explain the difference between a Singly Linked List and a Doubly Linked List.",
+          "userAnswer": "",
+          "isCorrect": false,
+          "partialScore": 0,
+          "correctAnswer": "Singly has one pointer to next; Doubly has pointers to both next and previous.",
+          "explanation": "Doubly linked lists allow bidirectional traversal but use more memory."
+        },
+        {
+          "questionId": "21d023156d3213e94bc0e56b",
+          "question": "What is a NULL pointer?",
+          "userAnswer": "",
+          "isCorrect": false,
+          "partialScore": 0,
+          "correctAnswer": "A pointer that does not point to any valid memory location.",
+          "explanation": "It is used to indicate that the pointer is not initialized."
+        },
+        {
+          "questionId": "ea06c9dec742b368635f6389",
+          "question": "What is a Red-Black Tree?",
+          "userAnswer": "",
+          "isCorrect": false,
+          "partialScore": 0,
+          "correctAnswer": "A self-balancing BST with an extra bit for color (red/black) to ensure balance.",
+          "explanation": "Provides guaranteed O(log n) performance for all operations."
+        }
+      ],
+      "timeTaken": 45,
+      "mode": "topic",
+      "_id": "d7b38ad0dd739823f92ad843",
+      "id": "d15135759c72d07272d93c46",
+      "createdAt": "2026-04-16T05:27:27.750Z"
+    },
+    {
+      "userId": "b0bfbdae7eb650fe8294229a",
+      "category": "mixed",
+      "totalScore": 1.5,
+      "totalQuestions": 5,
+      "answers": [
+        {
+          "questionId": "f397c73a1edb9bf068ec7472",
+          "question": "What is the square root of 144?",
+          "userAnswer": "12",
+          "isCorrect": true,
+          "partialScore": 1,
+          "correctAnswer": "12",
+          "explanation": "12 * 12 = 144."
+        },
+        {
+          "questionId": "e34f2bc07646cbcb755f1781",
+          "question": "What is the worst-case time complexity of Quick Sort?",
+          "userAnswer": "O(n log n)",
+          "isCorrect": false,
+          "partialScore": 0,
+          "correctAnswer": "O(n^2)",
+          "explanation": "Worst case occurs when the pivot is the smallest or largest element."
+        },
+        {
+          "questionId": "9bbeb26c8aed7674e3339b72",
+          "question": "What motivates you?",
+          "userAnswer": "Work",
+          "isCorrect": false,
+          "partialScore": 0.5,
+          "correctAnswer": "Success, learning new things, or solving problems.",
+          "explanation": "Helps the interviewer understand your drive."
+        },
+        {
+          "questionId": "3312039029ddb773c7228bf6",
+          "question": "What is JSX?",
+          "userAnswer": "",
+          "isCorrect": false,
+          "partialScore": 0,
+          "correctAnswer": "A syntax extension for JavaScript that looks like HTML.",
+          "explanation": "Stands for JavaScript XML, used in React to describe UI."
+        },
+        {
+          "questionId": "f9a549343eaa5a068ebd6217",
+          "question": "Explain recursion.",
+          "userAnswer": "",
+          "isCorrect": false,
+          "partialScore": 0,
+          "correctAnswer": "A process where a function calls itself directly or indirectly.",
+          "explanation": "Requires a base case to prevent infinite loops."
+        }
+      ],
+      "timeTaken": 25,
+      "mode": "quick",
+      "_id": "b2557b04e1f7b5e0b6fac34a",
+      "id": "f4a3189edab2fb70822624ab",
+      "createdAt": "2026-04-16T05:44:24.974Z"
+    }
+  ],
+  "bookmarks": [
+    {
+      "userId": "b0bfbdae7eb650fe8294229a",
+      "questionId": "21d023156d3213e94bc0e56b",
+      "_id": "2caef4a5fe748f011b6d4f6e",
+      "id": "7e1e409ee72479411ad67c17",
+      "createdAt": "2026-04-16T05:27:21.474Z"
+    }
+  ],
+  "exams": [],
+  "tests": [],
+  "attempts": [],
+  "interviews": [],
+  "studyPlans": [],
+  "flashcards": [],
+  "auditLogs": [],
+  "rubrics": []
+}
