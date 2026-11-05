@@ -65,8 +65,9 @@ app.use('/api/prepai', require('./routes/prepAIRoutes'));
 const frontendDistPath = path.resolve(__dirname, '../frontend/dist');
 if (fs.existsSync(frontendDistPath)) {
   app.use(express.static(frontendDistPath));
-  // Single-page application route fallback
-  app.get('*', (req, res, next) => {
+  // Single-page application route fallback (Express 5 compatible)
+  app.use((req, res, next) => {
+    if (req.method !== 'GET') return next();
     if (req.path.startsWith('/api') || req.path.startsWith('/socket.io')) {
       return next();
     }
